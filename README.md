@@ -1,4 +1,4 @@
-# Password Verified
+# Password Breach Checker
 
 **Password Verified** es una herramienta en Python que permite verificar si una contraseña ha sido comprometida en una brecha de datos utilizando la API de [PwnedPasswords](https://haveibeenpwned.com/Passwords). Puedes usarla tanto en modo **CLI** como en una interfaz **GUI** simple e intuitiva.
 
