@@ -55,5 +55,3 @@ Este comando abrirá una interfaz gráfica donde podrás ingresar tu contraseña
 4. Si se encuentra una coincidencia, el programa muestra cuántas veces ha sido comprometida esa contraseña.
 
 ---
-
----
