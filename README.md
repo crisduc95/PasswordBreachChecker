@@ -1,6 +1,4 @@
----
-
-## Password Verified
+# Password Verified
 
 **Password Verified** es una herramienta en Python que permite verificar si una contraseña ha sido comprometida en una brecha de datos utilizando la API de [PwnedPasswords](https://haveibeenpwned.com/Passwords). Puedes usarla tanto en modo **CLI** como en una interfaz **GUI** simple e intuitiva.
 
@@ -19,13 +17,11 @@
 
 **Instala las dependencias:**
 
-   Este script requiere `requests` y `tkinter`. Instálalo con pip:
+Este script solo requiere `requests`. Instálalo con pip:
 
-   ```bash
-   pip install requests
-   pip install tkinter
-   pip install argparse
-   ```
+```bash
+pip install requests
+```
 
 ## Uso
 
